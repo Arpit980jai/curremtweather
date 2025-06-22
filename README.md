@@ -104,10 +104,6 @@ The Weatherbit API offers a free tier for developers to test and integrate weath
 5. **API Documentation**:
    - Refer to the [Weatherbit API Documentation](https://www.weatherbit.io/api/weather-current) for detailed parameter descriptions and response formats.
 
-## Screenshots
-- **Foggy Day**: ![Foggy Day](sample Screenshot/Foggy Day.png)
-- **Sunny Day**: ![Sunny Day](sample Screenshot/Sunny Day.png)
-
 ## Usage
 - Launch the app on your device or emulator.
 - Enter a city name (e.g., "Raleigh,NC") or allow the app to use your location.
