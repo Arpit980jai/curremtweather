@@ -3,6 +3,10 @@
 ## Project Description
 This Flutter project is a mobile application that fetches and displays current weather conditions for a specified location using the Weatherbit Current Weather API. The app allows users to input a city name or use their device's location (via latitude and longitude) to retrieve real-time weather data, including temperature, humidity, wind speed, and weather descriptions. The app features a clean, user-friendly interface and handles API requests efficiently with error handling. This is a good small college project, ideal for learning Flutter and API integration.
 
+## Screenshots
+- **Foggy Day**: ![Foggy Day](sample Screenshot/Foggy Day.png)
+- **Sunny Day**: ![Sunny Day](sample Screenshot/Sunny Day.png)
+
 ## Features
 - Fetch current weather data by city name or coordinates.
 - Display weather details such as temperature, humidity, wind speed, and weather description.
