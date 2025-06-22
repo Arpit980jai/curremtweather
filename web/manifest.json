@@ -1,0 +1,35 @@
+{
+    "name": "curremtweather",
+    "short_name": "curremtweather",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "This Flutter project is a mobile application that fetches and displays current weather conditions for a specified location using the Weatherbit Current Weather API. The app allows users to input a city name or use their device's location (via latitude and longitude) to retrieve real-time weather data, including temperature, humidity, wind speed, and weather descriptions. The app features a clean, user-friendly interface and handles API requests efficiently with error handling.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
