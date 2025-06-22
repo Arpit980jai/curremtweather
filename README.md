@@ -115,6 +115,11 @@ Refer to the Weatherbit API Documentation for detailed parameter descriptions an
 
 
 
+Screenshots
+
+Foggy Day: ![Foggy Day](sample Screenshot/Foggy Day.png)
+Sunny Day: ![Sunny Day](sample Screenshot/Sunny Day.png)
+
 Usage
 
 Launch the app on your device or emulator.
