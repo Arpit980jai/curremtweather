@@ -1,4 +1,4 @@
-# Weather App with Weatherbit API
+[# Weather App with Weatherbit API
 
 ## Project Description
 This Flutter project is a mobile application that fetches and displays current weather conditions for a specified location using the Weatherbit Current Weather API. The app allows users to input a city name or use their device's location (via latitude and longitude) to retrieve real-time weather data, including temperature, humidity, wind speed, and weather descriptions. The app features a clean, user-friendly interface and handles API requests efficiently with error handling. This is a good small college project, ideal for learning Flutter and API integration.
@@ -127,3 +127,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions or support, contact the project maintainer or reach out to Weatherbit support at [Weatherbit Contact](https://www.weatherbit.io/contact). Please connect with me if you need any help; WhatsApp: +91-9807070171.
+](https://meet.google.com/yth-eudu-hmm)
